@@ -1,6 +1,6 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Nikita Scherbina].
+* Студент: [Nikita Scherbina](https://github.com/nikisherbi).
 * Наставник: `Неизвестно`.
 
 ---
